@@ -1,0 +1,2 @@
+This is my first project using github repo
+This file contains  the basics about git
