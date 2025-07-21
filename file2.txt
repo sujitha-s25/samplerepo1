@@ -6,3 +6,5 @@ git push
 git pull
 git branch
 git pull request
+git tag
+git stash
